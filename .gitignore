@@ -1,1 +1,2 @@
-.idea
+# ignore jetbrains .idea directory
+/.idea
